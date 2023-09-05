@@ -1,0 +1,4 @@
+# Datasets_Analysis
+Various datasets are analyzed to extract meaningful information and identify patterns and relationships in the data.
+1. House Price Predictor - Developed a predictive model to predict the house price using a Linear Regression algorithm. Prior to this, performed data cleaning and feature engineering using Jupyter Notebook to make the data suitable for training.
+2. WhatsApp Chat Analyzer - Developed a tool called WhatsApp Chat Analyzer that lets you track your conversation patterns, identify the most active users in your chats, and generate reports on your chat activity. EDA(Exploratory Data Analysis) is performed on the exported chats using a Python data manipulation library called Pandas and visualised through Matplotlib and Seaborn. The charts and graphs are displayed using a Python library called Streamlit.
